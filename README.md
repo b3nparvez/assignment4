@@ -1,2 +1,2 @@
-# summerthing
-assignment4 and maybe more
+# assignment4
+This is a test project
